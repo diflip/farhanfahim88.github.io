@@ -95,7 +95,7 @@ ul.links li:not(:last-child) {
 }
 
 .link-card:hover {
-  border: 2px solid black;
+  border: 2px solid white;
 }
 
 .links .link-icon {
